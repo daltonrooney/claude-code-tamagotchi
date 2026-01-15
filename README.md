@@ -1,5 +1,7 @@
 # Claude Code Tamagotchi 🐾
 
+> Fork of [Ido-Levi/claude-code-tamagotchi](https://github.com/Ido-Levi/claude-code-tamagotchi)
+
 > *Real-time behavioral enforcement for Claude Code, disguised as a virtual pet*
 
 **🚨 EXPERIMENTAL FEATURE: BEHAVIORAL ENFORCEMENT SYSTEM 🚨**
